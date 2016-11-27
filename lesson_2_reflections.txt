@@ -7,3 +7,7 @@ Staging area is a state before summit a change to repository, like a draft. Work
 
 How can you use the staging area to make sure you have one commit per logical change?
 Using git diff --staged to check what change i did to the files
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+It can help to make breaking changes or changes that introduce a big new feacture or experimentals implementations
