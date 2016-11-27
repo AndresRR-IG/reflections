@@ -17,3 +17,6 @@ It is easy and fast to see what commits belong to each brach and know when the b
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The unnion an intersection of this two branches. To make us an idea of the final stage.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic is faster, manually is safer 
