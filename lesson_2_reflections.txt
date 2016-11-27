@@ -14,3 +14,6 @@ It can help to make breaking changes or changes that introduce a big new feactur
 
 How do the diagrams help you visualize the branch structure?
 It is easy and fast to see what commits belong to each brach and know when the branch was created
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The unnion an intersection of this two branches. To make us an idea of the final stage.
