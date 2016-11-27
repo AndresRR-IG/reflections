@@ -3,3 +3,7 @@ I do not knwon yet
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is a state before summit a change to repository, like a draft. Working directory is the "folder" that contains all the files. 
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+Using git diff --staged to check what change i did to the files
